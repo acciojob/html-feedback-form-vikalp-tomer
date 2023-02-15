@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.btn{
+	margin-right :5px; 
+}
+
+.btn:hover{
+	color: red;
+	background-color : black;
+}
